@@ -1,5 +1,4 @@
-**Exam Alert** is a go-to Chrome extension for staying updated on the latest entrance exam news and updates. This Chrome extension features a sleek and user-friendly interface, integrating into your browser to provide you with timely notifications and alerts regarding crucial information such as upcoming entrance exams, application deadlines, exam pattern modifications, and significant announcements from a variety of educational institutions and exam boards.
-
+**Exam Alert** is a go-to Chrome extension for staying updated on the latest entrance exam news and updates. Featuring a sleek and intuitive interface, it seamlessly integrates into your browser, serving as your centralized hub for all exam-related information. From upcoming entrance exams and application deadlines to changes in exam patterns and critical announcements from educational institutions and exam boards, "ExamAlert" ensures that you never miss a beat.
 
 **INSTALLATION**
 1. Download [Exam Alert.zip](https://github.com/Priyanshi763/resume_projects/files/14805276/Exam.Alert.zip)
