@@ -1,0 +1,25 @@
+#container{
+    background-image:url("bg.webp");
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    width: 100%;
+    padding: 3px;
+    margin: auto;
+    line-break: 2;
+
+    p{
+        border: 2px solid white;
+        padding:14px;
+        border-radius:3%;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+        
+    }
+    a:hover{
+        color:darkslategrey;
+    }
+}
